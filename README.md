@@ -1,6 +1,3 @@
-### The README serves as a guide to help you understand the files and folders, and some information about the project.
-
-
 #### Folder Structuree 
 
 |-- README.txt
@@ -24,13 +21,3 @@
         |   `-- df_transactions.csv
         `-- presentation
             `-- Presentation_EnhancingTransactionMonitoringWithML.pdf
-
-
-#### Note
-
-1. The drafts folder contains several early versions of the code where extensive exploratory data analysis (EDA) was performed, 
-such as using .head(), plotting, and other exploratory techniques. (You can ignore this if you want)
-2. The staging folder holds a refined and polished notebook, designed to be more linear and easier to follow for readability.
-3. For a more user-friendly experience, refer to the PDF version of the V1 notebook located in the staging folder.
-4. The generated-dataset folder includes preprocessed datasets that were created before training the models.
-5. The presentation folder contains the project presentation, originally created in Google Slides and converted into a PDF format for convenience.
